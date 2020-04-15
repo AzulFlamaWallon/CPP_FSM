@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+.vs/CPP_FSM/v15/Browse.VC.opendb
+.vs/CPP_FSM/v15/Browse.VC.db
+*.ipch
